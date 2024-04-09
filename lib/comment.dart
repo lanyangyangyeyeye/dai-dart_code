@@ -27,13 +27,13 @@ class Llama {
   /// Feeds your llama [food].
   ///
   /// The typical llama eats one bale of hay per week.
-  void feed(Food food) {
+  void feed( food) {
     // ...
   }
 
   /// Exercises your llama with an [activity] for
   /// [timeLimit] minutes.
-  void exercise(Activity activity, int timeLimit) {
+  void exercise(activity, int timeLimit) {
     // ...
   }
 }

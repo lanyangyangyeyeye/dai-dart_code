@@ -1,6 +1,6 @@
 import 'dart:html';
 
-void(){
+void main(){
   int a=2;
   print(a++);
   int b=1;
@@ -12,6 +12,7 @@ void(){
   c ?a:b;
   int n=2;
   int i=3;
+  int d=2;
   // Parentheses improve readability.
   if ((n % i == 0) && (d % i == 0)) {}
 
